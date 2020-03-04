@@ -1,7 +1,7 @@
 package com.qjfcc.deadlock.banker;
 
-import com.qjfcc.deadlock.dto.MyProcess;
-import com.qjfcc.deadlock.dto.ResourceEntity;
+import com.qjfcc.deadlock.model.MyProcess;
+import com.qjfcc.deadlock.model.ResourceEntity;
 
 import java.util.HashMap;
 import java.util.List;

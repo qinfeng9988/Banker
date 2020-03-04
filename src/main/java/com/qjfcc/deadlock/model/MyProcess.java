@@ -1,4 +1,4 @@
-package com.qjfcc.deadlock.dto;
+package com.qjfcc.deadlock.model;
 
 import lombok.Data;
 

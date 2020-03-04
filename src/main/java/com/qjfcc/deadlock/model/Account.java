@@ -1,4 +1,4 @@
-package com.qjfcc.deadlock.dto;
+package com.qjfcc.deadlock.model;
 
 import com.google.common.collect.Lists;
 import lombok.AllArgsConstructor;

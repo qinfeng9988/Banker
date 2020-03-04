@@ -2,9 +2,9 @@ package com.qjfcc.deadlock;
 
 import com.google.common.collect.Lists;
 import com.qjfcc.deadlock.banker.Banker;
-import com.qjfcc.deadlock.dto.MyProcess;
-import com.qjfcc.deadlock.dto.ResourceEntity;
-import com.qjfcc.deadlock.dto.ResourceEnum;
+import com.qjfcc.deadlock.model.MyProcess;
+import com.qjfcc.deadlock.model.ResourceEntity;
+import com.qjfcc.deadlock.model.ResourceEnum;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
